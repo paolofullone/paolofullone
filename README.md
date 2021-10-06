@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  ![Snake animation](https://github.com/paolofullone/paolofullone/blob/output/github-contribution-grid-snake.svg)
+
 -->
 
 ## Hi There, I am Paolo Fullone, currently studing web development at Trybe!
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
   <a href = "mailto:paolo.enrico@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/paolofullone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
+![Snake animation](https://github.com/paolofullone/paolofullone/blob/output/github-contribution-grid-snake.svg)
  
 </div>
