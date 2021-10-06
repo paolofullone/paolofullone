@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-## Hi There, I am Paolo Fullone, currently studing web development at Trybe!
+## Hi There, I am Paolo Fullone, about to start studying web development at Trybe!
 <div align="center">
   <a href="https://github.com/paolofullone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paolofullone&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
