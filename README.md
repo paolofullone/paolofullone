@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ## Hi There, I am Paolo Fullone 😃
 #### I am studying at <a href="https://betrybe.com" target="blank">Trybe</a> to become a full stack web developer in special "Turma XP". It's special because <a href="https://xpi.com.br" target="blank">XP Inc</a> is sponsoring this group.
+#### Trybe mixes hard skills with soft skills, and we learn something new every day.
 #### You can check some of my activities in my <a href="https://br.linkedin.com/in/paolofullone" target="_blank">Linkedin</a>. 
 <div align="center">
   <a href="https://github.com/paolofullone">
