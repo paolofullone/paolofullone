@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 -->
 
-## Hi There, I am Paolo Fullone, about to start studying web development at Trybe!
-#### You can check some of my activities in my <a href="https://br.linkedin.com/in/paolofullone" target="_blank">Linkedin</a> 
+## Hi There, I am Paolo Fullone, studying at <a href="https://betrybe.com" target="_blank">Trybe</a> to become a full stack web developer in special "Turma XP". It's special because <a href="https://xpi.com.br" target="_blank">XP Inc</a> is sponsoring this group.
+#### You can check some of my activities in my <a href="https://br.linkedin.com/in/paolofullone" target="_blank">Linkedin</a>. 
 <div align="center">
   <a href="https://github.com/paolofullone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paolofullone&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
