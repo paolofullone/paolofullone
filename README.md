@@ -4,7 +4,7 @@ Hi 👋 My name is Paolo Enrico Iacono Fullone
 Fullstack WebDevelper
 ---------------------
 
-I am studying at Trybe (a brazilian programming language school) to become a full stack web developer. We have already studied the fundamentals of JavaScript, FrontEnd (React basics, Lifecycle, React Router, React Testing Library, Redux, Context API, React Hooks) and also some agile methodologies (SCRUM, KANBAN) and currently (April to July of 2022) we are in backend studying Docker, MySQL, MongoDB, NodeJS, Typescript and POO/SOLID concepts. An finnaly the the Computer Science module from July to September we will have some Python and Data Structure. Trybe mixes hard skills with soft skills, and we learn something new every day. You can check some of my activities at Linkedin and some projects shared here.
+I am studying at Trybe (a Brazilian programming language school) to become a full stack web developer. We have already studied the fundamentals of JavaScript, FrontEnd (React basics, Lifecycle, React Router, React Testing Library, Redux, Context API, React Hooks) and also some agile methodologies (SCRUM, KANBAN) and currently (April to July of 2022) we are in backend studying Docker, MySQL, MongoDB, NodeJS, Typescript and POO/SOLID concepts. An finally the Computer Science module from July to September we will have some Python and Data Structure. Trybe mixes hard skills with soft skills, and we learn something new every day. You can check some of my activities at Linkedin and some projects shared here.
 
 * 🌍  I'm based in Coronel Fabriciano - MG - Brazil
 * ✉️  You can contact me at [paolo.enrico@gmail.com](mailto:paolo.enrico@gmail.com)
