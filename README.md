@@ -11,7 +11,7 @@ I am studying at Trybe (a Brazilian programming language school) to become a ful
 * 🧠  I'm learning JavaScript, React, Redux, ContextAPI, Hooks, RTL, SQL, Docker, NodeJS, Typescript...
 * 🤝  I'm open to collaborating on any kind of opensource projects I can be helpfull.
 * ⚡  I like a lot to practice tennis and this pushs me to gym (that I don't really like).
-* 🗣️  I can speak Porgutuese (native), English (C2) and Spanish.
+* 🗣️  I can speak Portuguese (native), English (C2) and Spanish.
 
 ### Skills
 
