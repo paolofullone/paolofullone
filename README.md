@@ -8,7 +8,8 @@ I am studying at Trybe (a Brazilian programming language school) to become a ful
 
 * 🌍  I'm currently based in Coronel Fabriciano - MG - Brazil (I already lived in Belo Horizonte-MG, Jundiaí-SP and Mexico City)
 * ✉️  You can contact me at [paolo.enrico@gmail.com](mailto:paolo.enrico@gmail.com)
-* 🧠  I'm learning JavaScript, React, Redux, ContextAPI, Hooks, RTL, SQL, Docker, NodeJS, Typescript...
+* 👨‍💻  Currently working as .NET backend software engineer at XP Inc.
+* 🧠  I'm learning .NET C#, JavaScript, React, Redux, ContextAPI, Hooks, RTL, SQL, Docker, NodeJS, Typescript...
 * 🤝  I'm open to collaborating on any kind of opensource projects I can be helpfull.
 * ⚡  I like a lot to practice tennis and this pushs me to gym (that I don't really like).
 * 🗣️  I can speak Portuguese (native), English (C2) and Spanish.
