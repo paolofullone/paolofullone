@@ -18,17 +18,22 @@ I studied IT at Trybe (a Brazilian programming language school) to become a full
 
 ### Skills
 
-<p align="left">
+
 <p>Programming Languages</p>
+<p aligh="left">
 <img src="images/c--4.svg" width="36" height="36" alt="C#" />
 <img src="images/c++.svg" width="36" height="36" alt="C#" />
 <img src="images/javascript-colored.svg" width="36" height="36" alt="Javascript" />
 <img src="images/python-colored.svg" width="36" height="36" alt="Python" />
+</p>
 <p>Frameworks:</p>
+<p aligh="left">
 <img src="images/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="images/react-colored.svg" width="36" height="36" alt="React" />
 <img src="images/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+</p>
 <p>Trainings/Studies/Playground Projects:</p>
+<p aligh="left">
 <img src="images/html5-colored.svg" width="36" height="36" alt="HTML5" />
 <img src="images/css3-colored.svg" width="36" height="36" alt="CSS3" />
 <img src="images/sass-colored.svg" width="36" height="36" alt="Sass" />
