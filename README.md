@@ -4,10 +4,7 @@ Hi 👋 My name is Paolo Enrico Iacono Fullone
 BackEnd Engineer
 ---------------------
 
-As of now, working as a backend engineer at XP Inc, working with C# and C++.
-
-I studied IT at Trybe (a Brazilian programming language school) to become a full stack web developer. We had contact with a lot of JS, React, NodeJS and Python. In the end of the course I also joinned an acceleration in .NET C#.
-
+As of now, working as a backend engineer at XP Inc, working with C#.
 
 * 🌍  I'm currently based in Coronel Fabriciano - MG - Brazil (I already lived in Belo Horizonte-MG, Jundiaí-SP and Mexico City)
 * ✉️  You can contact me at [paolo.enrico@gmail.com](mailto:paolo.enrico@gmail.com)
@@ -17,7 +14,6 @@ I studied IT at Trybe (a Brazilian programming language school) to become a full
 * 🗣️  I can speak Portuguese (native), English (C2) and Spanish.
 
 ### Skills
-
 
 <p>Programming Languages</p>
 <p aligh="left">
@@ -58,6 +54,3 @@ I studied IT at Trybe (a Brazilian programming language school) to become a full
 <a href="http://www.github.com/paolofullone"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paolofullone&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/paolofullone" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolofullone&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
