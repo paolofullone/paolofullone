@@ -17,7 +17,6 @@ As of now, working as a backend engineer at XP Inc, working with C#.
 
 <p>Programming Languages</p>
 <p aligh="left">
-<img src="images/c--4.svg" width="36" height="36" alt="C#" />
 <img src="images/c++.svg" width="36" height="36" alt="C#" />
 <img src="images/javascript-colored.svg" width="36" height="36" alt="Javascript" />
 <img src="images/python-colored.svg" width="36" height="36" alt="Python" />
