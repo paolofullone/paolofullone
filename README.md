@@ -5,6 +5,7 @@ BackEnd Engineer
 ---------------------
 
 As of now, working as a backend engineer at XP Inc, working with C#.
+Since i joinned XP I've been working on Variable Income, passed by half a dozen of squads in this period.
 
 * 🌍  I'm currently based in Coronel Fabriciano - MG - Brazil (I already lived in Belo Horizonte-MG, Jundiaí-SP and Mexico City)
 * ✉️  You can contact me at [paolo.enrico@gmail.com](mailto:paolo.enrico@gmail.com)
