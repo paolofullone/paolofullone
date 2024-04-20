@@ -10,7 +10,7 @@ As of now, working as a backend engineer at XP Inc, working with C#.
 * ✉️  You can contact me at [paolo.enrico@gmail.com](mailto:paolo.enrico@gmail.com)
 * 👨‍💻  Since September/2022 I joinned XP Inc as a backend engineer.
 * 🤝  I'm open to collaborating on any kind of opensource projects I can be helpfull.
-* ⚡  I like a lot to practice tennis and this pushs me to gym (that I don't really like).
+* ⚡  I like a lot to practice tennis and run and this pushs me to gym (that I don't really like).
 * 🗣️  I can speak Portuguese (native), English (C2) and Spanish.
 
 ### Skills
