@@ -41,11 +41,3 @@ Backend engineer working with C#.\
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/paolofullone/" target="_blank" rel="noreferrer"><img src="images/linkedin.svg" width="32" height="32" /></a> 
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/paolofullone"><img src="https://github-readme-stats.vercel.app/api?username=paolofullone&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="paolofullone's GitHub stats" /></a>
-
-<a href="http://www.github.com/paolofullone"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paolofullone&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/paolofullone" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolofullone&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
