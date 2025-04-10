@@ -24,7 +24,6 @@ Backend engineer working with C#.\
 <img src="images/NET.svg" width="36" height="36" alt="NodeJS" />
 <img src="images/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="images/react-colored.svg" width="36" height="36" alt="React" />
-<img src="images/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
 </p>
 <p>Trainings/Studies/Playground Projects:</p>
 <p aligh="left">
@@ -38,12 +37,10 @@ Backend engineer working with C#.\
 <img src="images/heroku-colored.svg" width="36" height="36" alt="Heroku" />
 </p>
 
-
-### Socials
+### Links
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/paolofullone/" target="_blank" rel="noreferrer"><img src="images/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://discord.com/users/Paolo#1792" target="_blank" rel="noreferrer"><img src="images/discord.svg" width="32" height="32" /></a> 
 
 <b>My GitHub Stats</b>
 
